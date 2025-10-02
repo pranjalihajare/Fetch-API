@@ -35,4 +35,4 @@ The data is fetched from:
 - Applied **basic DOM manipulation** and **styling**
 
 ## 🎯 ScreenShot
-![imageAlt]()
+![imageAlt](https://github.com/pranjalihajare/Fetch-API/blob/54a583251476cf09f4cbeb5c0e883d3996875682/Screenshot%20from%202025-10-02%2014-43-37.png)
